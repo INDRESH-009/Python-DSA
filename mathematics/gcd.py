@@ -24,4 +24,10 @@ def gcd(a,b):
                 break
     return sol
 print(gcd(40,200))
-            
+
+
+""" 
+1. 3 example that says what a gcd is 
+2. Brute froce method
+3. 1st way to solve gcd using Euclidian method -  subtraction method as the "Euclidean method" and the modulo-based approach as the "Optimized Euclidean method
+"""
